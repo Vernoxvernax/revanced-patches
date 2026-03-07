@@ -1,12 +1,12 @@
-group = "app.revanced"
+group = "app.revanced.patches.deprisheep"
 
 patches {
     about {
-        name = "ReVanced Patches template"
-        description = "Patches template for ReVanced"
-        source = "git@github.com:revanced/revanced-patches-template.git"
-        author = "ReVanced"
-        contact = "contact@revanced.app"
+        name = "Studo Patches"
+        description = "Patches for Studo"
+        source = "git@github.com:Vernoxvernax/revanced-patches.git"
+        author = "Vernoxvernax"
+        contact = "N/A"
         website = "https://revanced.app"
         license = "GNU General Public License v3.0"
     }
