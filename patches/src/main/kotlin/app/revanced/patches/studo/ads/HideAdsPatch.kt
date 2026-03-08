@@ -8,7 +8,7 @@ val hideAdsPatch = bytecodePatch(
     name = "Hide Ads",
     description = "Removes Advertisements from the app interface.",
 ) {
-    compatibleWith("com.moshbit.studo")
+    compatibleWith("com.moshbit.studo"("4.72.2"))
 
     apply {
         showAdPatch.addInstructions(0, "return-void")
