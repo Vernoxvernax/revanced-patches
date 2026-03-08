@@ -1,3 +1,10 @@
+# [1.0.0-dev.3](https://github.com/Vernoxvernax/revanced-patches/compare/v1.0.0-dev.2...v1.0.0-dev.3) (2026-03-08)
+
+
+### Features
+
+* add patches.json for revanced-manager prerelease ([b1f4421](https://github.com/Vernoxvernax/revanced-patches/commit/b1f4421df4b56e42605c7f875e54fc551cff953c))
+
 # [1.0.0-dev.2](https://github.com/Vernoxvernax/revanced-patches/compare/v1.0.0-dev.1...v1.0.0-dev.2) (2026-03-08)
 
 
