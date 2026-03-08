@@ -1,3 +1,10 @@
+# [1.0.0-dev.2](https://github.com/Vernoxvernax/revanced-patches/compare/v1.0.0-dev.1...v1.0.0-dev.2) (2026-03-08)
+
+
+### Bug Fixes
+
+* **studo:** add compatible version ([06d6a00](https://github.com/Vernoxvernax/revanced-patches/commit/06d6a00f76ac56219bfb06deaf3873924ed3e160))
+
 # 1.0.0-dev.1 (2026-03-07)
 
 
