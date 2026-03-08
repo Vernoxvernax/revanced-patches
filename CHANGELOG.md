@@ -1,3 +1,11 @@
+# [1.0.0-dev.4](https://github.com/Vernoxvernax/revanced-patches/compare/v1.0.0-dev.3...v1.0.0-dev.4) (2026-03-08)
+
+
+### Features
+
+* **Studo:** add HideCookieConsent HidePromotionalNews HideStudoProExpired ([8f83201](https://github.com/Vernoxvernax/revanced-patches/commit/8f83201db6184ef80c6800aefd35f8f7de28f41b))
+* **Studo:** add RemoveCalendarLimit ([c09d9bd](https://github.com/Vernoxvernax/revanced-patches/commit/c09d9bd0cecb759f2781eddcfe8ac9ba34cad317))
+
 # [1.0.0-dev.3](https://github.com/Vernoxvernax/revanced-patches/compare/v1.0.0-dev.2...v1.0.0-dev.3) (2026-03-08)
 
 
