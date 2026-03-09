@@ -1,3 +1,10 @@
+# [1.0.0-dev.5](https://github.com/Vernoxvernax/revanced-patches/compare/v1.0.0-dev.4...v1.0.0-dev.5) (2026-03-09)
+
+
+### Features
+
+* **Studo:** replace RemoveCalendarLimit with EnableStudoPro ([806d4c7](https://github.com/Vernoxvernax/revanced-patches/commit/806d4c78649f60c8ba1080ca822a9452c5e726b5))
+
 # [1.0.0-dev.4](https://github.com/Vernoxvernax/revanced-patches/compare/v1.0.0-dev.3...v1.0.0-dev.4) (2026-03-08)
 
 
